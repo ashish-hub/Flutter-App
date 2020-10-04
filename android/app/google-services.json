@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522064385705",
+    "firebase_url": "https://yaaro-da652.firebaseio.com",
+    "project_id": "yaaro-da652",
+    "storage_bucket": "yaaro-da652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522064385705:android:405341405d241d4b62bbb8",
+        "android_client_info": {
+          "package_name": "com.example.yaaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522064385705-2a54es966nb3o8eirote29lgfu6um23j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dhq9dyLrq5OU31G6A_DpRR6WsQNqfgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522064385705-2a54es966nb3o8eirote29lgfu6um23j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
